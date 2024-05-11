@@ -20,6 +20,7 @@ How does the ASI work?
 	Pilot pressure is fed into a barometric capsule located within a sealed container that is fed with static pressure.
 
 Definitions
+
 Air speed indicator – the device that measures the speed of an aircraft relative of the surrounding air. 
 
 Static Pressure – The pressure of still air.
