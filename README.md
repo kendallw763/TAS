@@ -1,6 +1,6 @@
 Software Engineer – Kendall White
 
-This project was inspired by the F-111 Aardvark developed by General Dynamics and college physics.
+This project was inspired by college physics and the F-111 Aardvark developed by General Dynamics.
 	This aircraft was created in the 1960’s. The F-111 Aardvark was created for various purposes, including recognizance, strategic bombing, and electronic warfare.  This craft tops out at 2,005 MPH or 1742.297 knots (kt). 
 
 This aircraft set records at the peak of its time. Though, it did not see a lot of combat missions. The Aardvark has been to Vietnam, the gulf war and Iraq war. The first feature this plane has, is the ability to swing its wings. This helps to change flight profiles from high to low penetration levels. The f-111 Aardvark has been through different militaries such as the United Kingdom and Australia. 
