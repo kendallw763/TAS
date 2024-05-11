@@ -14,7 +14,7 @@ What is the ASI?
 	An instrument for measuring the forward speed of and aircraft. The ASI uses the aircraft pilot-static-system to compare pilot and static pressure. This determines the forward speed. 
 
 What unit is aircraft speed measured?
-	The measurement and indicated is in knots. (nautical miles per hour).
+	The measurement is indicated in knots. (nautical miles per hour).
 
 How does the ASI work?
 	Pilot pressure is fed into a barometric capsule located within a sealed container that is fed with static pressure.
