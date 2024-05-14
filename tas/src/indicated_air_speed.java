@@ -1,6 +1,13 @@
-public class indicated_air_speed {
-    int altitude, ias;
-    dash dashBoard = new dash();
 
-// formula - TAS = IAS (1+ altitude x 0.00002)
+public class indicated_air_speed extends true_air_speed {
+    int altitude, indicated_speed;
+//turn the functions of the IAS and pitot into code
+
+
+
+
+
+
+
+
 }
