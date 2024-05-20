@@ -1,14 +1,23 @@
 
 public class main {
     public static void main(String[] args) {
-int altitude ;
 
-info_dash.showDash();// populates the dashboard for the true airspeed indicator
+info_dash.showDash();// populates the dashboard for the true airspeed indicator and the information associated with it
+true_air_speed.tas();
 
 
-//String showDash2 = new dash().toString();// populates the dashboard for the indicated airspeed
 
-        // formula of calculation - TAS = IAS (1+ altitude x 0.00002)
+//prompt user to enter:
+        //commercial
+        //is the aircraft two man or one?
+        //max speed
+        //max altitude
+
+
+        //take the user input and calculate the true airspeed of the aircraft
+
+
+
         
 
 
