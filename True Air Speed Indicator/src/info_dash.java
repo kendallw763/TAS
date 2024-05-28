@@ -1,4 +1,6 @@
-//dashboard for the user to learn and view the calculations of aerospace systems
+//dashboard for the user to learn about the true airspeed system and how they work.
+
+
 public class info_dash{
     public static void showDash(){
         System.out.println("");
